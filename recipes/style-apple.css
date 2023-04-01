@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(58, 104, 172);
+}
+.text{
+    color: rgb(29, 29, 2);
+    
+}
+.head{
+    color: red;
+}
+.pics{
+    height: 200px;
+    width: 200px;
+}
+.long{
+    background-color: rgb(102, 255, 0);
+}

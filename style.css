@@ -1,0 +1,33 @@
+.big{
+    font-weight: 900;
+    font-size: 60;
+    }
+.bod{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.small{
+    display: flex;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 16px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    font-size: 15;
+}
+body{
+    background-color: blanchedalmond;
+}
+button{
+    padding: 5px;
+    background-color: lightskyblue;
+    border-radius: 6px;
+    border: 1px solid gray;
+}

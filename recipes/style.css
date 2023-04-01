@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(28, 168, 233);
+}
+.pic{
+    height: 200px;
+    width: 200px;
+}
+.pix{
+    height:200px;
+    width: 250px;
+}
+.long{
+    background-color: rgb(17, 168, 75);
+}
+.center{
+    color: rgb(228, 59, 17);
+}
